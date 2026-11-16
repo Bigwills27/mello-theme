@@ -1,0 +1,37 @@
+{
+  "checks": [
+    {
+      "name": "1440 new search layout opens and fits",
+      "pass": true
+    },
+    {
+      "name": "1440 search submits results",
+      "pass": true
+    },
+    {
+      "name": "1440 bag preview opens",
+      "pass": true
+    },
+    {
+      "name": "1440 bag closes with Escape",
+      "pass": true
+    },
+    {
+      "name": "375 new search layout opens and fits",
+      "pass": true
+    },
+    {
+      "name": "375 search submits results",
+      "pass": true
+    },
+    {
+      "name": "375 bag preview opens",
+      "pass": true
+    },
+    {
+      "name": "375 bag closes with Escape",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

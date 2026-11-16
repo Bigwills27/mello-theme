@@ -11,3 +11,7 @@
 - Compatibility: separate Buttercup browser state and RTL viewport fit. Static links/assets and JS syntax are checked separately.
 
 - Account visual review: all eight account routes at 1440px and 375px; no old auth-wrap/account-layout/sidebar/stats/table structures, no overflow, no broken images, and fresh screenshots.
+
+- Full storefront visual audit: 17 representative page/state compositions at 1440px and 375px, including populated bag/wishlist/checkout/payment/confirmation/tracking and rich content.
+- All-page structural audit: each of the 40 HTML pages has its Buttercup composition marker and no inherited main layout wrappers.
+- Search/bag dialogs: desktop/mobile opening, viewport fit, search submission and Escape closing.

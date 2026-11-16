@@ -1,0 +1,246 @@
+{
+  "pages": {
+    "404.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "lost-composition"
+      ]
+    },
+    "account/dashboard.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "customer-shell"
+      ]
+    },
+    "account/forgot-password.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "recovery-layout"
+      ]
+    },
+    "account/login.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "customer-auth"
+      ]
+    },
+    "account/order.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "customer-shell"
+      ]
+    },
+    "account/orders.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "customer-shell"
+      ]
+    },
+    "account/register.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "customer-auth"
+      ]
+    },
+    "account/reset-password.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "recovery-layout"
+      ]
+    },
+    "account/settings.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "customer-shell"
+      ]
+    },
+    "best-sales.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "collection-masthead"
+      ]
+    },
+    "brand.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "collection-masthead"
+      ]
+    },
+    "cart.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "selection-title"
+      ]
+    },
+    "category.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "collection-masthead"
+      ]
+    },
+    "checkout.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "checkout-opening"
+      ]
+    },
+    "index.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "cake-hero"
+      ]
+    },
+    "pages/about.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "about-opening"
+      ]
+    },
+    "pages/accessibility.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "document-masthead"
+      ]
+    },
+    "pages/contact.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "contact-opening"
+      ]
+    },
+    "pages/custom.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "document-masthead"
+      ]
+    },
+    "pages/faq.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "help-opening"
+      ]
+    },
+    "pages/privacy.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "document-masthead"
+      ]
+    },
+    "pages/returns.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "document-masthead"
+      ]
+    },
+    "pages/shipping.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "document-masthead"
+      ]
+    },
+    "pages/terms.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "document-masthead"
+      ]
+    },
+    "payment/bank.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "payment-opening"
+      ]
+    },
+    "payment/external.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "payment-opening"
+      ]
+    },
+    "payment/failed.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "payment-state"
+      ]
+    },
+    "payment/paystack.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "payment-opening"
+      ]
+    },
+    "payment/processing.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "payment-state"
+      ]
+    },
+    "payment/razorpay.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "payment-opening"
+      ]
+    },
+    "payment/squad.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "payment-opening"
+      ]
+    },
+    "payment/stripe.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "payment-opening"
+      ]
+    },
+    "payment/success.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "payment-state"
+      ]
+    },
+    "product.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "cake-product-frame"
+      ]
+    },
+    "search.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "collection-masthead"
+      ]
+    },
+    "shop.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "collection-masthead"
+      ]
+    },
+    "thanks.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "thankyou-opening"
+      ]
+    },
+    "tracking.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "tracking-opening"
+      ]
+    },
+    "trending.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "collection-masthead"
+      ]
+    },
+    "wishlist.html": {
+      "oldLayoutWrappers": [],
+      "newCompositions": [
+        "saved-masthead"
+      ]
+    }
+  },
+  "localReferences": 391,
+  "missingReferences": []
+}

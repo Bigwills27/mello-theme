@@ -12,7 +12,7 @@ Implemented in `js/store.js`, `js/data.js`, `css/theme.css`: configurable store 
 
 ## Listing contexts
 
-`shop.html`, `category.html`, `brand.html`, `search.html`, `trending.html`, `best-sales.html`, `js/catalog.js`: preserve shared listing semantics with context headings, category/brand/price and data-driven attribute filters, stock/sale/rating preferences, active filter removal, sort, page size, pagination and grid/list view. Mobile filters expand with a close toggle. An expanded panel serves the existing Mellow mobile filtering function; this is not styled as a full-screen drawer. Category/brand metadata can be expanded with tenant data; the current Mellow code itself reuses the shop view.
+`shop.html`, `category.html`, `brand.html`, `search.html`, `trending.html`, `best-sales.html`, `js/catalog.js`: preserve shared listing semantics with photographic context mastheads, horizontal category/brand/price and data-driven attribute filters, stock/sale/rating preferences, active filter removal, sort, page size, pagination and grid/list view. Mobile filters expand with a close toggle. An expanded panel serves the existing Mellow mobile filtering function; this is not styled as a full-screen drawer. Category/brand metadata can be expanded with tenant data; the current Mellow code itself reuses the shop view.
 
 ## Product/media/options
 
@@ -51,3 +51,7 @@ Reviews use stored sample and preview submissions, authenticated-profile prompt/
 ## Account layout review
 
 All eight customer account page structures were rebuilt for Buttercup. Authentication/recovery use photography paired with forms; customer navigation is horizontal; the overview combines latest-order and saved-cake imagery; order history uses photo rows; order details use an editorial receipt; and profile settings use numbered sections. Desktop/mobile screenshots for each account page and qa-account-results.json record this separate structural review.
+
+## Full storefront layout audit
+
+All 40 page compositions were checked for inherited main-layout wrappers. The remaining generic page-head, centred auth/success, left-sidebar listing, boxed rich-content and sticky summary layouts were replaced. New page families are implemented in css/storefront.css with their HTML and existing IDs/data hooks. Shared product cards, search dialog, bag preview and footer also received dedicated presentation. The Mellow fields/actions remain present; qa-storefront-results.json contains 34 desktop/mobile checks with populated buying and order states, and structure-audit.json records all 40 pages.

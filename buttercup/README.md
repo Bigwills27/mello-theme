@@ -19,6 +19,7 @@ Open http://127.0.0.1:8767/. Use HTTP for SVG icons and consistent browser stora
 - 40 HTML pages, with CSS in `css/`, JavaScript in `js/` and local photography/icons/font in `images/`.
 - Root pages cover home, shop, category, brand, search, trending, best sellers, product, cart, wishlist, checkout, confirmation, tracking and 404.
 - `account/`: distinct photographic sign-in/registration and recovery layouts; horizontal customer navigation; editorial overview, photo-based paginated order history, receipt-style details and numbered profile sections.
+- `css/storefront.css`: dedicated Buttercup collection, product, bag, checkout, payment, confirmation, tracking, content and shared footer compositions.
 - `css/account.css`: Buttercup’s dedicated customer layouts; these do not use Aurelle’s centered forms, account sidebar, stats cards or order table.
 - `payment/`: Stripe, Paystack, Squad, Razorpay, transfer and generic external-provider handoffs plus success/failure/pending layouts.
 - `pages/`: story, contact, FAQ, shipping, returns, terms, privacy, accessibility and flexible rich content.
@@ -65,3 +66,7 @@ Sample catalog prices, tax/delivery rules, ingredients/diet labels and policy co
 - The Buttercup wordmark is live text and uses the system serif stack. No Hanna Bakes/Wix logo is used.
 
 To reset the preview, remove localStorage keys starting with `buttercup.` in browser developer tools.
+
+## Whole-storefront layout review
+
+Every customer page was reviewed against Aurelle. Buttercup uses a horizontal collection filter bar, full-width bag sheet and bottom totals, numbered checkout with expandable order review, photographic payment/result layouts, a new confirmation receipt, tracking banner, editorial contact/story pages, a contents rail for rich/policy pages and numbered FAQs. Product title/price sit above a thumbnail-rail gallery and purchase area, with details below; the shared footer is centred with horizontal link groups. See docs/structure-audit.json and the review-<page>-1440.png / review-<page>-375.png screenshots.

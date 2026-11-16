@@ -13,3 +13,5 @@
 - [x] Verification/handoff: syntax, links/assets, responsive page coverage and meaningful interaction tests; update all 830 ledger dispositions with file/state evidence, preserve honest backend/optional boundaries, create matching ZIP.
 
 - [x] Account correction: rebuilt all eight page structures and customer order rendering with dedicated css/account.css; checked desktop/mobile and retained interactions.
+
+- [x] Whole-storefront correction: rebuilt remaining listing, buying, product, payment, tracking and content page-family structures, including shared cards/footer/dialogs; preserved IDs/data hooks and checked populated desktop/mobile states.

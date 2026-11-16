@@ -1,0 +1,311 @@
+{
+  "checks": [
+    {
+      "name": "1440 shop.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 product.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 cart.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 wishlist.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 checkout.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 thanks.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 tracking.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 payment/paystack.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 payment/failed.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 payment/success.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 payment/processing.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 pages/about.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 pages/contact.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 pages/faq.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 pages/privacy.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 pages/custom.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440 404.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 shop.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 product.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 cart.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 wishlist.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 checkout.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 thanks.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 tracking.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 payment/paystack.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 payment/failed.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 payment/success.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 payment/processing.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 pages/about.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 pages/contact.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 pages/faq.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 pages/privacy.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 pages/custom.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    },
+    {
+      "name": "375 404.html distinct composition fits",
+      "pass": true,
+      "detail": {
+        "fits": true,
+        "old": 0,
+        "broken": 0
+      }
+    }
+  ],
+  "errors": []
+}

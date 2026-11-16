@@ -37,3 +37,7 @@ See docs/reference-audit.md and docs/checklist-ledger.md. The reference alone do
 ## Customer account design
 
 Authentication uses photo/form compositions with underline fields and separate recovery layouts. Signed-in pages use horizontal account navigation, an overview led by the latest order and saved-cake imagery, paginated photograph-based order rows, a split order receipt with delivery/payment information, and numbered profile/password sections. These are structural designs specific to Buttercup, not recoloured Aurelle templates.
+
+## Storefront page compositions
+
+Collections use a photographic masthead and horizontal dropdown filter bar above full-width product shelves. The bag is a full-width item sheet with discount and totals beneath. Checkout is a numbered form with an expandable order review above. Payment handoffs/results pair photography with transaction details. Confirmation and tracking have separate editorial compositions. Content pages use a contents rail and numbered sections, contact uses a photo/note layout, and FAQs use numbered questions. The product page separates the title/price masthead from its image and purchase sections and moves descriptive content below. All page families and the shared footer have dedicated Buttercup structures.
