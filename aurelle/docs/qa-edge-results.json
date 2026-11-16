@@ -1,0 +1,137 @@
+{
+  "checks": [
+    {
+      "name": "Hero banner changes",
+      "pass": true
+    },
+    {
+      "name": "Nested category menu opens",
+      "pass": true
+    },
+    {
+      "name": "Header search results",
+      "pass": true
+    },
+    {
+      "name": "Missing product state",
+      "pass": true
+    },
+    {
+      "name": "Out of stock disables action",
+      "pass": true
+    },
+    {
+      "name": "Affiliate product CTA",
+      "pass": true
+    },
+    {
+      "name": "Registration password mismatch",
+      "pass": true
+    },
+    {
+      "name": "Preview profile created",
+      "pass": true
+    },
+    {
+      "name": "No password stored",
+      "pass": true
+    },
+    {
+      "name": "Rating link opens reviews",
+      "pass": true
+    },
+    {
+      "name": "Review saves locally",
+      "pass": true
+    },
+    {
+      "name": "Reset request preview feedback",
+      "pass": true
+    },
+    {
+      "name": "Expired reset state",
+      "pass": true
+    },
+    {
+      "name": "Empty order state",
+      "pass": true
+    },
+    {
+      "name": "Missing order state",
+      "pass": true
+    },
+    {
+      "name": "Tracking not found",
+      "pass": true
+    },
+    {
+      "name": "Listing failure state",
+      "pass": true
+    },
+    {
+      "name": "Listing retry restores products",
+      "pass": true
+    },
+    {
+      "name": "Listing loading state",
+      "pass": true
+    },
+    {
+      "name": "Digital checkout hides address",
+      "pass": true
+    },
+    {
+      "name": "Digital fulfillment selected",
+      "pass": true
+    },
+    {
+      "name": "Clear cart confirmation opens",
+      "pass": true
+    },
+    {
+      "name": "Cancel clear preserves bag",
+      "pass": true
+    },
+    {
+      "name": "Confirm clear empties bag",
+      "pass": true
+    },
+    {
+      "name": "No customer fee-waiver preview control",
+      "pass": true
+    },
+    {
+      "name": "Pickup hides delivery fields",
+      "pass": true
+    },
+    {
+      "name": "Pickup removes address requirement",
+      "pass": true
+    },
+    {
+      "name": "Shipping charge calculated",
+      "pass": true
+    },
+    {
+      "name": "Shipping waiver applied",
+      "pass": true
+    },
+    {
+      "name": "No merchant customization UI",
+      "pass": true
+    },
+    {
+      "name": "No theme-guide link in storefront",
+      "pass": true
+    },
+    {
+      "name": "RTL preview",
+      "pass": true
+    },
+    {
+      "name": "No edge-flow JS errors",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

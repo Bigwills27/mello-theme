@@ -1,0 +1,69 @@
+{
+  "checks": [
+    {
+      "name": "1440 login new layout fits",
+      "pass": true
+    },
+    {
+      "name": "1440 register new layout fits",
+      "pass": true
+    },
+    {
+      "name": "1440 forgot-password new layout fits",
+      "pass": true
+    },
+    {
+      "name": "1440 reset-password new layout fits",
+      "pass": true
+    },
+    {
+      "name": "1440 dashboard new layout fits",
+      "pass": true
+    },
+    {
+      "name": "1440 orders new layout fits",
+      "pass": true
+    },
+    {
+      "name": "1440 order new layout fits",
+      "pass": true
+    },
+    {
+      "name": "1440 settings new layout fits",
+      "pass": true
+    },
+    {
+      "name": "375 login new layout fits",
+      "pass": true
+    },
+    {
+      "name": "375 register new layout fits",
+      "pass": true
+    },
+    {
+      "name": "375 forgot-password new layout fits",
+      "pass": true
+    },
+    {
+      "name": "375 reset-password new layout fits",
+      "pass": true
+    },
+    {
+      "name": "375 dashboard new layout fits",
+      "pass": true
+    },
+    {
+      "name": "375 orders new layout fits",
+      "pass": true
+    },
+    {
+      "name": "375 order new layout fits",
+      "pass": true
+    },
+    {
+      "name": "375 settings new layout fits",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

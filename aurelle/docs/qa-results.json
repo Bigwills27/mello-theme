@@ -1,0 +1,702 @@
+{
+  "checks": [
+    {
+      "name": "1440px 404.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px 404.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px best-sales.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px best-sales.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px brand.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px brand.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px cart.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px cart.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px category.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px category.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px checkout.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px checkout.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px index.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px index.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px product.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px product.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px search.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px search.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px shop.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px shop.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px thanks.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px thanks.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px tracking.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px tracking.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px trending.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px trending.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px wishlist.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px wishlist.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px account/dashboard.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px account/dashboard.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px account/forgot-password.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px account/forgot-password.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px account/login.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px account/login.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px account/order.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px account/order.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px account/orders.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px account/orders.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px account/register.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px account/register.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px account/reset-password.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px account/reset-password.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px account/settings.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px account/settings.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/about.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/about.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/accessibility.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/accessibility.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/contact.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/contact.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/custom.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/custom.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/faq.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/faq.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/privacy.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/privacy.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/returns.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/returns.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/shipping.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/shipping.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/terms.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px pages/terms.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/bank.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/bank.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/failed.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/failed.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/paystack.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/paystack.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/processing.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/processing.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/razorpay.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/razorpay.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/squad.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/squad.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/stripe.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/stripe.html: images",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/success.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "1440px payment/success.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px 404.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px 404.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px best-sales.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px best-sales.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px brand.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px brand.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px cart.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px cart.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px category.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px category.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px checkout.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px checkout.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px index.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px index.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px product.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px product.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px search.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px search.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px shop.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px shop.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px thanks.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px thanks.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px tracking.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px tracking.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px trending.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px trending.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px wishlist.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px wishlist.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px account/dashboard.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px account/dashboard.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px account/forgot-password.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px account/forgot-password.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px account/login.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px account/login.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px account/order.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px account/order.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px account/orders.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px account/orders.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px account/register.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px account/register.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px account/reset-password.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px account/reset-password.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px account/settings.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px account/settings.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px pages/about.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px pages/about.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px pages/accessibility.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px pages/accessibility.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px pages/contact.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px pages/contact.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px pages/custom.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px pages/custom.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px pages/faq.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px pages/faq.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px pages/privacy.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px pages/privacy.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px pages/returns.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px pages/returns.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px pages/shipping.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px pages/shipping.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px pages/terms.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px pages/terms.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px payment/bank.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px payment/bank.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px payment/failed.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px payment/failed.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px payment/paystack.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px payment/paystack.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px payment/processing.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px payment/processing.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px payment/razorpay.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px payment/razorpay.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px payment/squad.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px payment/squad.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px payment/stripe.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px payment/stripe.html: images",
+      "pass": true
+    },
+    {
+      "name": "375px payment/success.html: fits viewport",
+      "pass": true
+    },
+    {
+      "name": "375px payment/success.html: images",
+      "pass": true
+    },
+    {
+      "name": "Wishlist toggle",
+      "pass": true
+    },
+    {
+      "name": "Cart count updates",
+      "pass": true
+    },
+    {
+      "name": "Mini cart opens",
+      "pass": true
+    },
+    {
+      "name": "Escape closes drawer",
+      "pass": true
+    },
+    {
+      "name": "Option price updates",
+      "pass": true
+    },
+    {
+      "name": "Gallery lightbox opens",
+      "pass": true
+    },
+    {
+      "name": "Invalid coupon feedback",
+      "pass": true
+    },
+    {
+      "name": "Coupon applies",
+      "pass": true
+    },
+    {
+      "name": "Checkout gateway handoff",
+      "pass": true
+    },
+    {
+      "name": "Failure preserves cart",
+      "pass": true
+    },
+    {
+      "name": "Success clears cart",
+      "pass": true
+    },
+    {
+      "name": "Order confirmation shows reference",
+      "pass": true
+    },
+    {
+      "name": "Sample tracking and download",
+      "pass": true
+    },
+    {
+      "name": "Category filter",
+      "pass": true
+    },
+    {
+      "name": "No matching result state",
+      "pass": true
+    },
+    {
+      "name": "Empty search result",
+      "pass": true
+    },
+    {
+      "name": "Mobile navigation opens",
+      "pass": true
+    },
+    {
+      "name": "No browser JS errors",
+      "pass": true
+    }
+  ],
+  "failures": [],
+  "errors": []
+}

@@ -1,0 +1,153 @@
+{
+  "checks": [
+    {
+      "name": "Sample orders paginate",
+      "pass": true
+    },
+    {
+      "name": "Second order page",
+      "pass": true
+    },
+    {
+      "name": "Completed paid digital download",
+      "pass": true
+    },
+    {
+      "name": "Pending order has no download",
+      "pass": true
+    },
+    {
+      "name": "Unknown order state",
+      "pass": true
+    },
+    {
+      "name": "Guest tracking succeeds",
+      "pass": true
+    },
+    {
+      "name": "Guest tracking no match",
+      "pass": true
+    },
+    {
+      "name": "Password mismatch feedback",
+      "pass": true
+    },
+    {
+      "name": "Show-password control",
+      "pass": true
+    },
+    {
+      "name": "Preview profile creation",
+      "pass": true
+    },
+    {
+      "name": "No password stored",
+      "pass": true
+    },
+    {
+      "name": "Preview review submission",
+      "pass": true
+    },
+    {
+      "name": "Profile update feedback",
+      "pass": true
+    },
+    {
+      "name": "Reset request status",
+      "pass": true
+    },
+    {
+      "name": "Expired token feedback",
+      "pass": true
+    },
+    {
+      "name": "Preview logout",
+      "pass": true
+    },
+    {
+      "name": "Digital shipping hidden",
+      "pass": true
+    },
+    {
+      "name": "Digital mode selected",
+      "pass": true
+    },
+    {
+      "name": "Clear bag action",
+      "pass": true
+    },
+    {
+      "name": "Empty checkout",
+      "pass": true
+    },
+    {
+      "name": "Product without addons adds",
+      "pass": true
+    },
+    {
+      "name": "Shipping fee calculated",
+      "pass": true
+    },
+    {
+      "name": "Configured customer fee exemption",
+      "pass": true
+    },
+    {
+      "name": "No customer waiver control",
+      "pass": true
+    },
+    {
+      "name": "Quote validates required options",
+      "pass": true
+    },
+    {
+      "name": "Quote totals multiple addons",
+      "pass": true
+    },
+    {
+      "name": "Quote applies variant stock",
+      "pass": true
+    },
+    {
+      "name": "No-banner homepage state",
+      "pass": true
+    },
+    {
+      "name": "No-category homepage state",
+      "pass": true
+    },
+    {
+      "name": "No-brand homepage state",
+      "pass": true
+    },
+    {
+      "name": "Homepage collection retry",
+      "pass": true
+    },
+    {
+      "name": "Homepage category tabs",
+      "pass": true
+    },
+    {
+      "name": "RTL direction",
+      "pass": true
+    },
+    {
+      "name": "RTL viewport fit",
+      "pass": true
+    },
+    {
+      "name": "No cross-theme browser storage",
+      "pass": true
+    },
+    {
+      "name": "No merchant controls",
+      "pass": true
+    },
+    {
+      "name": "No JS errors",
+      "pass": true
+    }
+  ],
+  "errors": []
+}
