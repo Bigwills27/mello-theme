@@ -32,3 +32,14 @@ body{font-size:15px;font-weight:400}h1,h2{font-weight:500;letter-spacing:-.035em
 @media(max-width:1100px){.toolbar-actions{flex-wrap:wrap;justify-content:end}.toolbar{align-items:start}.toolbar-actions>label select{max-width:140px}}
 .nav-menu .nav-menu>div{position:static;border:0;border-left:1px solid var(--line);margin-left:10px;min-width:0;padding:12px}.mobile-menu .nav-menu>div{position:static;border:0;padding:5px 0 12px 12px;min-width:0}.mobile-menu .nav-menu summary{font-size:20px;padding:16px 0}.mobile-menu .nav-menu a{font-size:17px}.mobile-menu .nav-menu{border-bottom:1px solid var(--line)}
 @media(min-width:801px){.mobile-only{display:none!important}}
+/* Use CSS-drawn arrows so mobile browsers don't render Unicode arrows as emoji. */
+.ui-arrow{position:relative;display:inline-block;width:.9em;height:.9em;vertical-align:-.12em;color:currentColor}
+.ui-arrow::before{position:absolute;top:50%;left:0;width:.78em;border-top:1.5px solid currentColor;content:"";transform:translateY(-50%)}
+.ui-arrow::after{position:absolute;top:50%;right:.05em;width:.32em;height:.32em;border-top:1.5px solid currentColor;border-right:1.5px solid currentColor;content:"";transform:translateY(-50%) rotate(45deg)}
+.ui-arrow--left{transform:rotate(180deg)}
+.ui-arrow--up{transform:rotate(-90deg)}
+.ui-arrow--down{transform:rotate(90deg)}
+.ui-arrow--up-right{transform:rotate(-45deg)}
+.ui-arrow--down-right{transform:rotate(45deg)}
+.ui-arrow--up-left{transform:rotate(-135deg)}
+.ui-arrow--down-left{transform:rotate(135deg)}

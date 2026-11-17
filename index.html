@@ -15,6 +15,17 @@
 
     * { box-sizing: border-box; }
 
+    .ui-arrow { position: relative; display: inline-block; width: .9em; height: .9em; vertical-align: -.12em; color: currentColor; }
+    .ui-arrow::before { position: absolute; top: 50%; left: 0; width: .78em; border-top: 1.5px solid currentColor; content: ""; transform: translateY(-50%); }
+    .ui-arrow::after { position: absolute; top: 50%; right: .05em; width: .32em; height: .32em; border-top: 1.5px solid currentColor; border-right: 1.5px solid currentColor; content: ""; transform: translateY(-50%) rotate(45deg); }
+    .ui-arrow--left { transform: rotate(180deg); }
+    .ui-arrow--up { transform: rotate(-90deg); }
+    .ui-arrow--down { transform: rotate(90deg); }
+    .ui-arrow--up-right { transform: rotate(-45deg); }
+    .ui-arrow--down-right { transform: rotate(45deg); }
+    .ui-arrow--up-left { transform: rotate(-135deg); }
+    .ui-arrow--down-left { transform: rotate(135deg); }
+
     body { margin: 0; }
 
     .page {
@@ -162,7 +173,7 @@
             <div class="theme-meta"><span class="theme-type">Beauty &amp; skincare</span><span class="theme-number">01 / 02</span></div>
             <h2>Aurelle</h2>
             <p class="theme-description">A bold beauty storefront for everyday skincare essentials.</p>
-            <span class="theme-action">View theme ↗</span>
+            <span class="theme-action">View theme <span class="ui-arrow ui-arrow--up-right" aria-hidden="true"></span></span>
           </div>
         </a>
 
@@ -172,7 +183,7 @@
             <div class="theme-meta"><span class="theme-type">Cakes &amp; treats</span><span class="theme-number">02 / 02</span></div>
             <h2>Buttercup</h2>
             <p class="theme-description">A warm cake shop storefront for celebrations and sweet moments.</p>
-            <span class="theme-action">View theme ↗</span>
+            <span class="theme-action">View theme <span class="ui-arrow ui-arrow--up-right" aria-hidden="true"></span></span>
           </div>
         </a>
       </section>

@@ -20,3 +20,14 @@
 @media(max-width:800px){.hero{height:650px;max-height:80svh;min-height:540px}.hero>img{object-position:65% center;opacity:1}.hero h1{max-width:250px;font-size:31px}}
 .store-logo{max-width:180px;max-height:55px;width:auto;height:auto;object-fit:contain}.wordmark:has(.store-logo){display:flex;align-items:center}
 @media(max-width:430px){.store-logo{max-width:110px;max-height:40px}}
+/* Use CSS-drawn arrows so mobile browsers don't render Unicode arrows as emoji. */
+.ui-arrow{position:relative;display:inline-block;width:.9em;height:.9em;vertical-align:-.12em;color:currentColor}
+.ui-arrow::before{position:absolute;top:50%;left:0;width:.78em;border-top:1.5px solid currentColor;content:"";transform:translateY(-50%)}
+.ui-arrow::after{position:absolute;top:50%;right:.05em;width:.32em;height:.32em;border-top:1.5px solid currentColor;border-right:1.5px solid currentColor;content:"";transform:translateY(-50%) rotate(45deg)}
+.ui-arrow--left{transform:rotate(180deg)}
+.ui-arrow--up{transform:rotate(-90deg)}
+.ui-arrow--down{transform:rotate(90deg)}
+.ui-arrow--up-right{transform:rotate(-45deg)}
+.ui-arrow--down-right{transform:rotate(45deg)}
+.ui-arrow--up-left{transform:rotate(-135deg)}
+.ui-arrow--down-left{transform:rotate(135deg)}
