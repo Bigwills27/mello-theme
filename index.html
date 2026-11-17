@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore the available Mellow storefront themes.">
+  <title>Mellow themes</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #292522;
+      background: #f7f5f1;
+    }
+
+    * { box-sizing: border-box; }
+
+    body { margin: 0; }
+
+    .page {
+      width: min(1120px, calc(100% - 40px));
+      margin: 0 auto;
+      padding: 32px 0 72px;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      padding-bottom: 64px;
+    }
+
+    .brand {
+      font-size: 19px;
+      font-weight: 700;
+      letter-spacing: -.04em;
+    }
+
+    .header-note, .eyebrow, .theme-type, .theme-number {
+      color: #77716b;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .intro { max-width: 720px; margin-bottom: 44px; }
+
+    h1 {
+      margin: 14px 0 16px;
+      font-size: clamp(38px, 6vw, 68px);
+      font-weight: 600;
+      letter-spacing: -.065em;
+      line-height: 1.05;
+    }
+
+    .intro p:last-child {
+      max-width: 550px;
+      margin: 0;
+      color: #625c56;
+      font-size: 17px;
+      line-height: 1.6;
+    }
+
+    .themes {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 20px;
+    }
+
+    .theme {
+      display: block;
+      overflow: hidden;
+      border: 1px solid #e5dfd7;
+      border-radius: 12px;
+      color: inherit;
+      background: #fff;
+      text-decoration: none;
+      transition: border-color .2s ease, transform .2s ease;
+    }
+
+    .theme:hover { border-color: #9a8e82; transform: translateY(-3px); }
+    .theme:focus-visible { outline: 3px solid #53463b; outline-offset: 4px; }
+
+    .theme-image {
+      display: block;
+      width: 100%;
+      aspect-ratio: 1.75;
+      object-fit: cover;
+    }
+
+    .theme-content { padding: 24px 26px 28px; }
+
+    .theme-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .theme h2 {
+      margin: 18px 0 8px;
+      font-size: clamp(28px, 3vw, 38px);
+      font-weight: 600;
+      letter-spacing: -.05em;
+    }
+
+    .theme-description {
+      min-height: 48px;
+      margin: 0;
+      color: #625c56;
+      line-height: 1.5;
+    }
+
+    .theme-action {
+      display: inline-block;
+      margin-top: 28px;
+      border-bottom: 1px solid currentColor;
+      padding-bottom: 4px;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    footer {
+      margin-top: 32px;
+      color: #77716b;
+      font-size: 14px;
+    }
+
+    @media (max-width: 700px) {
+      .page { width: min(100% - 32px, 500px); padding-top: 24px; }
+      header { padding-bottom: 48px; }
+      .header-note { display: none; }
+      .themes { grid-template-columns: 1fr; }
+      .theme-description { min-height: 0; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .theme { transition: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <div class="brand">mellow<span aria-hidden="true">.</span></div>
+      <span class="header-note">Storefront theme previews</span>
+    </header>
+
+    <main>
+      <div class="intro">
+        <p class="eyebrow">Available themes / 02</p>
+        <h1>Choose a theme to explore.</h1>
+        <p>Open either storefront to browse its pages and try the demo experience. Come back to this tab whenever you want to view the other theme.</p>
+      </div>
+
+      <section class="themes" aria-label="Available themes">
+        <a class="theme" href="aurelle/index.html" target="_blank" rel="noopener noreferrer">
+          <img class="theme-image" src="aurelle/images/hero.webp" alt="Aurelle beauty storefront preview">
+          <div class="theme-content">
+            <div class="theme-meta"><span class="theme-type">Beauty &amp; skincare</span><span class="theme-number">01 / 02</span></div>
+            <h2>Aurelle</h2>
+            <p class="theme-description">A bold beauty storefront for everyday skincare essentials.</p>
+            <span class="theme-action">View theme ↗</span>
+          </div>
+        </a>
+
+        <a class="theme" href="buttercup/index.html" target="_blank" rel="noopener noreferrer">
+          <img class="theme-image" src="buttercup/images/hero-wedding.webp" alt="Buttercup cake shop storefront preview">
+          <div class="theme-content">
+            <div class="theme-meta"><span class="theme-type">Cakes &amp; treats</span><span class="theme-number">02 / 02</span></div>
+            <h2>Buttercup</h2>
+            <p class="theme-description">A warm cake shop storefront for celebrations and sweet moments.</p>
+            <span class="theme-action">View theme ↗</span>
+          </div>
+        </a>
+      </section>
+    </main>
+
+    <footer>Each theme opens in a new tab, so this page stays here for easy switching.</footer>
+  </div>
+</body>
+</html>
